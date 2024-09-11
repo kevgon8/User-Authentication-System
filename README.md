@@ -102,6 +102,7 @@ user-authentication-system/
 - **Tkinter**: Used for creating the GUI.
 - **ttkbootstrap**: Adds modern themes and styles to the Tkinter GUI.
 - **hashlib**: Used for hashing passwords securely.
+- **CSV**: Used for storing and managing user data in a simple and accessible format.
 
 ## Contributing
 If you would like to contribute, please follow these steps:
