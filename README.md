@@ -21,10 +21,10 @@ This project was created as part of the selection round for the Newton School of
 
 ## Features
 
-- **User Registration**: Allows users to register with a username and password. Passwords are securely hashed using SHA-256.
+- **User Registration**: Allows users to register with a username and password. Passwords are hashed using SHA-256.
 - **User Login**: Users can log in using their registered credentials. Login success and error messages are displayed via pop-up alerts.
 - **User Logout**: Users can log out, and their session will be terminated.
-- **Data Storage**: User credentials are stored in a CSV file (`usrs.csv`), which maintains the list of registered users.
+- **Data Storage**: User credentials are stored in a CSV file (`usrs.csv`).
 
 
 ## Installation
@@ -100,8 +100,8 @@ user-authentication-system/
 ## Technologies Used
 - **Tkinter**: Used for creating the GUI.
 - **ttkbootstrap**: Adds modern themes and styles to the Tkinter GUI.
-- **hashlib**: Used for hashing passwords securely.
-- **CSV**: Used for storing and managing user data in a simple and accessible format.
+- **hashlib**: Used for hashing passwords.
+- **CSV**: Used for storing and managing user data.
 
 ## Contributing
 If you would like to contribute, please follow these steps:
