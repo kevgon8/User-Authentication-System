@@ -98,7 +98,6 @@ user-authentication-system/
 
 
 ## Technologies Used
-- **Python**: The core programming language used for the application.
 - **Tkinter**: Used for creating the GUI.
 - **ttkbootstrap**: Adds modern themes and styles to the Tkinter GUI.
 - **hashlib**: Used for hashing passwords securely.
