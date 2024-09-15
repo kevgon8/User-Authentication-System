@@ -15,7 +15,6 @@ This project was created as part of the selection round for the Newton School of
 - [Usage](#usage)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
 - [Author](#author)
 - [Contact](#contact)
 
@@ -103,23 +102,6 @@ user-authentication-system/
 - **hashlib**: Used for hashing passwords.
 - **CSV**: Used for storing and managing user data.
 
-## Contributing
-If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a feature branch:
-    ```
-    git checkout -b feature/NewFeature
-    ```
-3. Commit your changes:
-    ```
-    git commit -m 'Add some NewFeature'
-    ```
-4. Push to the branch:
-    ```
-    git push origin feature/NewFeature
-    ```
-5. Open a pull request.
 
 ## Author
 Kevin Gonsalves
