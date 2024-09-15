@@ -125,6 +125,9 @@ If you would like to contribute, please follow these steps:
 Kevin Gonsalves
 
 ***Please be sure to check out my other repositories too!***
+- [Instagram Followers Analyzer](https://github.com/kevgon8/Instagram-Follower-Analyzer)
+- [CS50P Problem Sets](https://github.com/kevgon8/CS50P-Problem-Sets-Solutions)
+- [To-Do List Application](https://github.com/kevgon8/To-Do-List-App)
 
 ## Contact
 Email: kevgon146@gmail.com
